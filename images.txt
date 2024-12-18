@@ -9,6 +9,7 @@
 #ghcr.io/open-webui/open-webui:cuda
 #cr2.fit2cloud.com/1panel/maxkb
 #kubesphere/ks-installer:v3.4.1
-apache/doris
+apache/doris:2.0.3-fe-x86_64
+apache/doris:2.0.3-be-x86_64
 
 
