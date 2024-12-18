@@ -11,5 +11,6 @@
 #kubesphere/ks-installer:v3.4.1
 #apache/doris:2.0.3-fe-x86_64
 #apache/doris:2.0.3-be-x86_64
-openjdk:8u342-jdk
-
+#openjdk:8u342-jdk
+apache/seatunnel
+apache/seatunnel-web
