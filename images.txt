@@ -12,7 +12,9 @@
 #apache/doris:2.0.3-fe-x86_64
 #apache/doris:2.0.3-be-x86_64
 #openjdk:8u342-jdk
-apache/seatunnel
+#apache/seatunnel
 #apache/seatunnel-web
 #docker.getcollate.io/openmetadata/server:1.5.6
 #docker.getcollate.io/openmetadata/ingestion:1.5.6
+scaleph/scaleph
+
