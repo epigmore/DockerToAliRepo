@@ -32,7 +32,9 @@
 #canal/canal-server:v1.1.7
 #canal/canal-admin:v1.1.7
 #apachepulsar/pulsar:2.10.2
-ghcr.io/flowerfine/scaleph/scaleph-file-fetcher:v2.0.5
-ghcr.io/flowerfine/scaleph-paimon:0.7.0-incubating-flink-1.18
-ghcr.io/flowerfine/scaleph-seatunnel:2.3.8-flink-1.16
-ghcr.io/flowerfine/scaleph-sql-template:1.18
+#ghcr.io/flowerfine/scaleph/scaleph-file-fetcher:v2.0.5
+#ghcr.io/flowerfine/scaleph-paimon:0.7.0-incubating-flink-1.18
+#ghcr.io/flowerfine/scaleph-seatunnel:2.3.8-flink-1.16
+#ghcr.io/flowerfine/scaleph-sql-template:1.18
+kestra/kestra:latest
+postgres
