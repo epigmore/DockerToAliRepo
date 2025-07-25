@@ -38,6 +38,8 @@
 #ghcr.io/flowerfine/scaleph-sql-template:1.18
 #kestra/kestra:latest
 #postgres
-docker.getcollate.io/openmetadata/server:1.7.3
-docker.getcollate.io/openmetadata/ingestion:1.7.3
-docker.getcollate.io/openmetadata/db:1.7.3
+#docker.getcollate.io/openmetadata/server:1.7.3
+#docker.getcollate.io/openmetadata/ingestion:1.7.3
+#docker.getcollate.io/openmetadata/db:1.7.3
+docker.getcollate.io/openmetadata/server:1.8.7
+docker.getcollate.io/openmetadata/ingestion:1.8.7
