@@ -49,5 +49,5 @@
 #kestra/kestra:latest
 #python:3.9-slim
 #mysql:8.0.29
-nginx:1.26-alpine
-openjdk:17
+#nginx:1.26-alpine
+openjdk:17-jdk
