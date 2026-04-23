@@ -53,5 +53,5 @@
 #openjdk:17
 #eclipse-temurin:17-jdk
 #apache/apisix-dashboard:3.16.0
-apache/apisix:3.16.0
+#apache/apisix:3.16.0
 bitnamilegacy/etcd:3.4.9
