@@ -52,7 +52,8 @@
 #nginx:1.26-alpine
 #openjdk:17
 #eclipse-temurin:17-jdk
-apache/apisix-dashboard:3.0.1-alpine
+#apache/apisix-dashboard:3.0.1-alpine
 #apache/apisix:3.16.0
-apache/apisix:3.13.0-debian
-bitnamilegacy/etcd:3.4.9
+#apache/apisix:3.13.0-debian
+#bitnamilegacy/etcd:3.4.9
+qdrant/qdrant
