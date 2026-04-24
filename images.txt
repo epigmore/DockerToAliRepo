@@ -56,4 +56,5 @@
 #apache/apisix:3.16.0
 #apache/apisix:3.13.0-debian
 #bitnamilegacy/etcd:3.4.9
-qdrant/qdrant
+#qdrant/qdrant
+alpine/openclaw:2026.3.8
