@@ -61,4 +61,5 @@
 #apache/apisix:3.17.0-debian
 #bitnamilegacy/etcd:3.5.11
 #nginx:1.19.0-alpine
-grafana/grafana:7.3.7
+#grafana/grafana:7.3.7
+prom/prometheus:v2.25.0
