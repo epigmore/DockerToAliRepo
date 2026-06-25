@@ -57,4 +57,7 @@
 #bitnamilegacy/etcd:3.4.9
 #qdrant/qdrant
 #alpine/openclaw:2026.3.8
-kestra/kestra:latest
+#kestra/kestra:latest
+apache/apisix:3.17.0-debian
+bitnamilegacy/etcd:3.5.11
+nginx:1.19.0-alpine
